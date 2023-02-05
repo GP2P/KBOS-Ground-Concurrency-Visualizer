@@ -1,0 +1,25 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Original Project Assets
+Content/Animations
+Content/BuildingMeshes
+Content/Cinematic
+Content/Materials
+Content/Meshes
+Content/Plants
+Content/textures
+Content/SkeletalMeshes
+Content/Blueprints
