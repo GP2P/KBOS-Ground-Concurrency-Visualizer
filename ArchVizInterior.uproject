@@ -32,6 +32,16 @@
 			"Name": "BlueprintAssist",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9e895371fa3a471c87337860d6f341ff"
+		},
+		{
+			"Name": "FileSDK",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4f737815666c4e7dabf2043fb55a8419"
+		},
+		{
+			"Name": "DataSerialization",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/51bfff9f8bc34c3d8072b31455965276"
 		}
 	],
 	"EpicSampleNameHash": "2554716042"
